@@ -1,5 +1,7 @@
 # PcBuilder
 
+![Static Badge](https://img.shields.io/badge/XCode_Version-15.0-green?style=flat&logo=xcode) ![Static Badge](https://img.shields.io/badge/Swift_Version-5.9-green?style=flat&logo=swift) ![Static Badge](https://img.shields.io/badge/Designed_for-iPhone_15-green?style=flat) ![Static Badge](https://img.shields.io/badge/Built_for-iOS_17.0-green?style=flat) 
+
 ## Description
 
 This repository contains my project for the Swift Student Challenge 2024. The "PCBuilder" app is an interactive playground designed to help users learn how to assemble a PC in a simple and fun way while gaining familiarity with various component functionalities.
@@ -16,7 +18,7 @@ The main goal of "PCBuilder" is to make learning how to build a PC accessible to
 
 ## Instructions For Use
 
-* Clone the repository to your computer with git.
+* Clone the repository to your computer with [git](https://git-scm.com/).
 
   ```bash
   git clone https://github.com/zRedk/PcBuilder.git
@@ -33,4 +35,4 @@ PCBuilder is licensed under the MIT License. See the [LICENSE](https://github.co
 
 ## Credits
 
-"PCBuilder" was developed as part of the Swift Student Challenge 2024 by [Federica Mosca]. Thank you for your interest in the project!
+"PCBuilder" was developed as part of the Swift Student Challenge 2024 by [Federica Mosca](https://github.com/zRedk). Thank you for your interest in the project!
