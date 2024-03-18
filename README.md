@@ -1,6 +1,6 @@
 # PcBuilder
 
-![Static Badge](https://img.shields.io/badge/XCode_Version-15.0-green?style=flat&logo=xcode) ![Static Badge](https://img.shields.io/badge/Swift_Version-5.9-green?style=flat&logo=swift) ![Static Badge](https://img.shields.io/badge/Designed_for-iPhone_15-green?style=flat) ![Static Badge](https://img.shields.io/badge/Built_for-iOS_17.0-green?style=flat) 
+![Static Badge](https://img.shields.io/badge/XCode_Version-15.0-green?style=flat&logo=xcode) ![Static Badge](https://img.shields.io/badge/Swift_Version-5.9-green?style=flat&logo=swift) 
 
 ## Description
 
