@@ -4,7 +4,7 @@
 
 ## Description
 
-This repository contains my project for the Swift Student Challenge 2024. The "PCBuilder" app is an interactive playground designed to help users learn how to assemble a PC in a simple and fun way while gaining familiarity with various component functionalities.
+This repository contains my project for the Swift Student Challenge 2024. The "SetMeUp" app is an interactive playground designed to help users learn how to assemble a PC in a simple and fun way while gaining familiarity with various component functionalities.
 
 ## How It Works
 
@@ -14,7 +14,7 @@ Additionally, users can click on each component to view a description of its fun
 
 ## Purpose
 
-The main goal of "PCBuilder" is to make learning how to build a PC accessible to everyone, without the need to tackle complex and technical descriptions. This app is particularly useful for those who are new to the world of PC building and desire a clear and straightforward introduction to its components and functionalities.
+The main goal of "SetMeUp" is to make learning how to build a PC accessible to everyone, without the need to tackle complex and technical descriptions. This app is particularly useful for those who are new to the world of PC building and desire a clear and straightforward introduction to its components and functionalities.
 
 ## Instructions For Use
 
@@ -31,8 +31,8 @@ The main goal of "PCBuilder" is to make learning how to build a PC accessible to
 
 ## License
 
-PCBuilder is licensed under the MIT License. See the [LICENSE](https://github.com/zRedk/PcBuilder/blob/main/LICENSE) file for details.
+SetMeUp is licensed under the MIT License. See the [LICENSE](https://github.com/zRedk/PcBuilder/blob/main/LICENSE) file for details.
 
 ## Credits
 
-"PCBuilder" was developed as part of the Swift Student Challenge 2024 by [Federica Mosca](https://github.com/zRedk). Thank you for your interest in the project!
+"SetMeUp" was developed as part of the Swift Student Challenge 2024 by [Federica Mosca](https://github.com/zRedk). Thank you for your interest in the project!
