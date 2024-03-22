@@ -1,4 +1,4 @@
-# PcBuilder
+# SetMeUp
 
 ![Static Badge](https://img.shields.io/badge/XCode_Version-15.0-green?style=flat&logo=xcode) ![Static Badge](https://img.shields.io/badge/Swift_Version-5.9-green?style=flat&logo=swift) 
 
