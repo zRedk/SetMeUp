@@ -47,7 +47,7 @@ The main goal of "SetMeUp" is to make learning how to build a PC accessible to e
 <a name="license"></a>
 ## License
 
-SetMeUp is licensed under the MIT License. See the [LICENSE](https://github.com/zRedk/PcBuilder/blob/main/LICENSE) file for details.
+SetMeUp is licensed under the GNU License. See the [LICENSE](https://github.com/zRedk/PcBuilder/blob/main/LICENSE) file for details.
 
 <a name="credits"></a>
 ## Credits
